@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Lukas John!
-- 🔭 Apaixonado poelo mundo tecnológico
+- 🔭 
 -  Estudando as seguintes tecnologia:
  
 <div style="display: inline_block"><br>
