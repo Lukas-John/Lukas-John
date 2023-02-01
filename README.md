@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Lukas John!
-- 🔭 Moro no RS-BR , amo tecnologia desde pequeno e sempre busco conhecimento na área.
+- 🔭 Moro no RS-BR , amo tecnologia desde pequeno e sempre busco conhecimentos novos na área.
 -  Estudando as seguintes tecnologia:
  
 <div style="display: inline_block"><br>
